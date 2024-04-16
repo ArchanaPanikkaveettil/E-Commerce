@@ -1,0 +1,16 @@
+#userslist {
+    position: relative;
+    top: 200px;
+    left: 35px;
+    text-align: center;
+}
+
+/* #userimage {
+    border-radius: 30%;
+} */
+
+#usercard {
+    /* border-radius: 30%; */
+    background-color:rgba(51, 76, 238, 0.352);
+}
+

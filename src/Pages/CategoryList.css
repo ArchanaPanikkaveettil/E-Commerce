@@ -1,0 +1,20 @@
+#categorylist {
+    position: relative;
+    top: 200px;
+    left: 35px;
+    text-align: center;
+}
+
+#categoryimage {
+    border-radius: 20%;
+}
+
+#categorycard {
+    border-radius: 20%;
+    background-color: rgba(14, 187, 118, 0.352);
+}
+
+#categorylink{
+    text-decoration: none;
+    color: black;
+  }

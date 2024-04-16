@@ -1,0 +1,16 @@
+#singlecategory {
+    position: relative;
+    top: 200px;
+    left: 35px;
+    text-align: center;
+}
+
+#singleimage {
+    border-radius: 10%;
+}
+
+#singcategcard {
+    border-radius: 10%;
+    background-color: rgba(14, 187, 118, 0.352);
+}
+
